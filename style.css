@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+    background-image: url(); 
+}
+
+a {
+    padding: 50px;
+}
+
+.card {
+    text-align: center;
+}
+
+.schoolpic {
+    /* height: 100px; */
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+footer{
+    margin-top: 10%;
+}
