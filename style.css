@@ -3,8 +3,8 @@ header {
     background-image: url("./img/snowboarding.JPG"); 
 }
 
-a {
-    padding: 5%;
+span {
+    padding: 1.5%;
 }
 
 .card {
@@ -37,4 +37,8 @@ footer{
 
 body {
     background-image: url("./img/timber.jpg"); 
+}
+
+a {
+    padding: 2%;
 }
